@@ -3,7 +3,7 @@
  * - Renders even with no children (spacing preserved).
  */
 import React from "react";
-import { cn } from "../../utils/cn";
+import { cn } from "../../../utils/cn";
 
 export function FormLabel({
   htmlFor,

@@ -4,7 +4,7 @@
  * - Later you can add slots for addons, icons, inline buttons, etc.
  */
 import React from "react";
-import { cn } from "../../utils/cn";
+import { cn } from "../../../utils/cn";
 
 export function FieldWrapper({ className = "", children, ...rest }: any) {
   return (

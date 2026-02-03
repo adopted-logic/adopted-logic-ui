@@ -7,7 +7,7 @@
  */
 
 import React, { useRef } from "react";
-import { cn } from "../../utils/cn";
+import { cn } from "../../../utils/cn";
 import { useFormCtx } from "../useFormCtx";
 
 export function Form({
