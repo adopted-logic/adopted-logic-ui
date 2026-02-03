@@ -20,7 +20,7 @@ const defaultTheme: FormTheme = {
   error: "text-xs text-red-600",
 };
 
-export default function Form({
+export function Form({
   mode = "managed",
   data,
   update,
